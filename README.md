@@ -1475,7 +1475,7 @@ Future enhancements:
 
 **Project Maintainer**: Your Name
 **Email**: your.email@example.com
-**GitHub**: [@yourusername](https://github.com/yourusername)
+**GitHub**: [@tanish643](https://github.com/tanish643))
 
 ---
 
@@ -1485,6 +1485,6 @@ Future enhancements:
 
 ⭐ **Star this repo if you find it helpful!** ⭐
 
-[Report Bug](https://github.com/yourusername/bookverse/issues) · [Request Feature](https://github.com/yourusername/bookverse/issues)
+[Report Bug](https://github.com/tanish643/bookverse/issues) · [Request Feature](https://github.com/tanish643/bookverse/issues)
 
 </div>
